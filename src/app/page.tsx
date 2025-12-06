@@ -33,7 +33,7 @@ export default function Page() {
           onClick={() => setIsModalOpen(true)}
           className="border rounded-xl bg-blue-500 text-white px-6 py-4 hover:bg-blue-600 mb-4"
         >
-          11-30 할 일
+          12-06 할 일
         </button>
         <Modal
           isOpen={isModalOpen}
